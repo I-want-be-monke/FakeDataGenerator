@@ -18,7 +18,7 @@ public partial class MainWindow : Window
         InitializeComponent();
     }
 
-    private void GenerateButton_Click(object sender, RoutedEventArgs e)
+    private async void GenerateButton_Click(object sender, RoutedEventArgs e)
     {
         if (!int.TryParse(CountTextBox.Text, out int count) || count < 1)
         {
@@ -27,7 +27,7 @@ public partial class MainWindow : Window
         }
 
         var format = (FormatComboBox.SelectedItem as ComboBoxItem)?.Content.ToString();
-        var data = _dataGenerator.GeneratePersons(count);
+        var data = await _dataGenerator.GeneratePersons(count);
 
         var saveFileDialog = new SaveFileDialog();
 

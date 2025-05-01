@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FakeDataGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b388fff6d876ba01042deaa3e4dce2216bbceb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f36faf8f0c0505557dca885cdc8df6c62f5d2124")]
 [assembly: System.Reflection.AssemblyProductAttribute("FakeDataGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FakeDataGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

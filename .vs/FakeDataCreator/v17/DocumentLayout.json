@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Progi\\FakeDataCreator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|c:\\progi\\fakedatacreator\\fakedatacreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|solutionrelative:fakedatacreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|c:\\progi\\fakedatacreator\\fakedatacreator\\fakedatagenerator.core\\services\\exporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|solutionrelative:fakedatacreator\\fakedatagenerator.core\\services\\exporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +15,16 @@
       "RelativeMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|solutionrelative:fakedatacreator\\fakedatagenerator.core\\services\\datagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataCreator.csproj|c:\\progi\\fakedatacreator\\fakedatacreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataCreator.csproj|solutionrelative:fakedatacreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataCreator.csproj|c:\\progi\\fakedatacreator\\fakedatacreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataCreator.csproj|solutionrelative:fakedatacreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|c:\\progi\\fakedatacreator\\fakedatacreator\\fakedatagenerator.core\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|solutionrelative:fakedatacreator\\fakedatagenerator.core\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataCreator.csproj|c:\\progi\\fakedatacreator\\fakedatacreator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataCreator.csproj|solutionrelative:fakedatacreator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|c:\\progi\\fakedatacreator\\fakedatacreator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|solutionrelative:fakedatacreator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|c:\\progi\\fakedatacreator\\fakedatacreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDC47F81-439F-43A0-B315-CE78800505D3}|FakeDataCreator\\FakeDataGenerator.csproj|solutionrelative:fakedatacreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Exporter.cs",
               "DocumentMoniker": "C:\\Progi\\FakeDataCreator\\FakeDataCreator\\FakeDataGenerator.Core\\Services\\Exporter.cs",
               "RelativeDocumentMoniker": "FakeDataCreator\\FakeDataGenerator.Core\\Services\\Exporter.cs",
@@ -59,20 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DataGenerator.cs",
               "DocumentMoniker": "C:\\Progi\\FakeDataCreator\\FakeDataCreator\\FakeDataGenerator.Core\\Services\\DataGenerator.cs",
               "RelativeDocumentMoniker": "FakeDataCreator\\FakeDataGenerator.Core\\Services\\DataGenerator.cs",
               "ToolTip": "C:\\Progi\\FakeDataCreator\\FakeDataCreator\\FakeDataGenerator.Core\\Services\\DataGenerator.cs",
               "RelativeToolTip": "FakeDataCreator\\FakeDataGenerator.Core\\Services\\DataGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T17:26:26.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Progi\\FakeDataCreator\\FakeDataCreator\\FakeDataGenerator.Core\\Models\\Person.cs",
               "RelativeDocumentMoniker": "FakeDataCreator\\FakeDataGenerator.Core\\Models\\Person.cs",
@@ -80,12 +80,11 @@
               "RelativeToolTip": "FakeDataCreator\\FakeDataGenerator.Core\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T17:22:53.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T17:22:53.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Progi\\FakeDataCreator\\FakeDataCreator\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "FakeDataCreator\\AssemblyInfo.cs",
@@ -93,30 +92,28 @@
               "RelativeToolTip": "FakeDataCreator\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T17:20:25.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T17:20:25.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Progi\\FakeDataCreator\\FakeDataCreator\\MainWindow.xaml",
               "RelativeDocumentMoniker": "FakeDataCreator\\MainWindow.xaml",
               "ToolTip": "C:\\Progi\\FakeDataCreator\\FakeDataCreator\\MainWindow.xaml",
               "RelativeToolTip": "FakeDataCreator\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-30T17:19:29.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T17:19:29.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Progi\\FakeDataCreator\\FakeDataCreator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "FakeDataCreator\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Progi\\FakeDataCreator\\FakeDataCreator\\MainWindow.xaml.cs",
               "RelativeToolTip": "FakeDataCreator\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T17:19:17.4Z",
               "EditorCaption": ""
